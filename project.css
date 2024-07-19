@@ -1,0 +1,74 @@
+body {
+    display: flex;
+    justify-content: center;
+   
+}
+.container{
+    background-image: url('Screenshot\ 2024-07-18\ 184212.png');
+    background-color: white;
+    background-position: center;
+    height: 710px;
+    width: 400px;
+    border-radius: 20px;
+    font-size: larger;
+    background-size: contain;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    color: #577774;
+    font-size: 40px
+}
+.button{
+    border: none;
+    outline: none;
+    margin-top: 0px;
+    cursor: pointer;
+    border-width: 0;
+    border-radius: 100px;
+    width: 0px;
+    height: 0px;
+    display: contents;
+    
+}
+.resetButton{
+    border: 0;
+    background-color: #296273;
+    border-radius: 50px;
+    width: 90px;
+    text-align: center;
+    align-items: left;
+    border: 0;
+    background: #f2eff0;
+    color: #4a4947;
+    color: #544d42;
+    box-shadow: -2px 7px 12px 0px #beb8b8;
+    padding: 3px;
+    border-radius: 20px;
+    font-size: 22px;
+    font-family: system-ui;
+    font-weight: 400;
+    /* height: //36px; */
+    cursor: pointer;
+    margin: 0px 40px 80px -90px;
+}
+.Text{
+    font-family: system-ui;
+    font-weight: 600;
+    margin-top: 150px;;
+    text-shadow: -3px 2px 1px #fe9d02b8;
+}
+.today-hadith {
+    color: rgb(85, 90, 93);
+    font-weight: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 2px 2px 5px #fff;
+    font-size: 16px;
+    margin-bottom: 14px;
+    text-align: center;
+    padding: 25px;
+}
+
+
+
+
