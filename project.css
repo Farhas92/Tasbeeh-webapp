@@ -1,6 +1,7 @@
 body {
     display: flex;
     justify-content: center;
+    backgruond-color:#f5d3b5:
    
 }
 .container{
@@ -17,7 +18,7 @@ body {
     align-items: center;
     flex-direction: column;
     color: #577774;
-    font-size: 40px
+    font-size: 40px;
 }
 .button{
     border: none;
